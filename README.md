@@ -6,4 +6,3 @@ the realtime google analytics overview page.
 
 Inspired by the similar chrome extension [realtime-google-analytics-in-tab](https://github.com/haydenjameslee/realtime-google-analytics-in-tab-chrome-extension)
 
-Download here: https://chrome.google.com/webstore/detail/realtime-google-analytics/oidkhindaaphcmdflgfkpddinjkhmfje
