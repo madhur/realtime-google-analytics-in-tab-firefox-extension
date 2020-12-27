@@ -1,4 +1,4 @@
-realtime-google-analytics-in-tab
+Realtime Google Analytics Count in Tab
 ================================
 
 Firefox Extension to see the number of realtime users on your site in the tab of
